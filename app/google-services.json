@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "444254904402",
+    "firebase_url": "https://travelq-6eb45.firebaseio.com",
+    "project_id": "travelq-6eb45",
+    "storage_bucket": "travelq-6eb45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444254904402:android:c05152d5e1dee67c",
+        "android_client_info": {
+          "package_name": "com.example.shubhangi.travelq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444254904402-icfkul3mtbtmgbn75vs0joggm1eivjqb.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "444254904402-agbts4sk45dognj9er7g90uhjmjngm38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_s4pidnKD60zc05KxADIEOIBqdezxBno"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
